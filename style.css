@@ -1,0 +1,95 @@
+#home {
+    background: linear-gradient(#46d46c 0%, #1996b3 100%);
+    height: 900px;
+}
+
+.links:hover {
+    font-size: 35px;
+    background-color: black;
+    text-decoration: underline;
+}
+
+body {
+    text-align: center;
+}
+
+.links {
+    text-decoration-color: white;
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.menu {
+    position: fixed;
+    list-style: none;
+    background: darkgray;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: #01106e;
+    margin: 8px auto;
+}
+
+#he1 {
+    font-family: 'Courgette', cursive;
+}
+
+#about {
+    background-color: pink;
+}
+
+#sites {
+    background-color: beige;
+}
+
+#inspiration {
+    background-color: red;
+}
+
+.bands {
+    height: 300px;
+    width: 200px;
+}
+
+.spans,
+.spacing {
+    margin: 50px;
+}
+
+#footer {
+    background-color: skyblue;
+}
+
+#guitar {
+    height: 200px;
+    width: 400px
+}
+
+#header {
+    font-family: 'Palette Mosaic', cursive;
+}
+
+.headings {
+    font-family: 'Lobster', cursive;
+}
+
+body {
+    background: darkgray;
+}
+
+#videos {
+    background-color: aquamarine;
+}
+.bands:hover{
+    height: 290px;
+    width: 190px;
+}
